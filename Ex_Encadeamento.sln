@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_Encadeamento", "Ex_Encadeamento\Ex_Encadeamento.csproj", "{1D96CFCD-4FE0-4D06-B448-9EE95FC6C8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D96CFCD-4FE0-4D06-B448-9EE95FC6C8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D96CFCD-4FE0-4D06-B448-9EE95FC6C8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D96CFCD-4FE0-4D06-B448-9EE95FC6C8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D96CFCD-4FE0-4D06-B448-9EE95FC6C8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B5D007F-6E27-42ED-8757-63A26154BDED}
+	EndGlobalSection
+EndGlobal
